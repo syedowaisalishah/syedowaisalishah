@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software student from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedowaisalishah&label=Profile%20views&color=a1adb5&style=flat" alt="syedowaisalishah" /> </p>
+<img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
 
 - 🔭 I’m currently working on [CHISEL](https://github.com/syedowaisalishah/CHISELSLABS)
 
