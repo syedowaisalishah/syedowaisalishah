@@ -1,3 +1,5 @@
+ <a href='https://github.com/samadpls/Islamic-qoutes'>
+<img align='right' src='https://islamic-qoutes-header.herokuapp.com/' width=100% alt='samadpls/islamic-qoutes'></a>
 <h1 align="center">Hi 👋, I'm syed owais ali shah</h1>
 <h3 align="center">A passionate software student from Pakistan</h3>
 
