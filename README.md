@@ -2,7 +2,8 @@
 <h3 align="center">A passionate software student from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedowaisalishah&label=Profile%20views&color=a1adb5&style=flat" alt="syedowaisalishah" /> </p>
-<img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.herokuapp.com/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
 
 - 🔭 I’m currently working on [CHISEL](https://github.com/syedowaisalishah/CHISELSLABS)
 
