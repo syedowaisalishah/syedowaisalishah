@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm syed owais ali shah</h1>
-<h3 align="center">👋 Hi, I'm Syed Owais Ali Shah, a software engineering student from UIT-NED. Passionate about technology and innovation, I've gained hands-on experience with hardware design and LLM projects. With a keen interest in AI-optimized hardware, I'm committed to aligning hardware with software to create efficient and powerful solutions.n</h3>
+<h1 align="center">Hello, I'm Syed Owais Ali Shah 👋</h1>
+<p align="center" style="font-size: 18px;">
+    As a software engineering student at UIT-NED, my journey is driven by a deep passion for technology and innovation. I have hands-on experience in hardware design and LLM projects, and I am captivated by the potential of AI-optimized hardware. My goal is to bridge the gap between hardware and software, crafting efficient and high-performance solutions.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedowaisalishah&label=Profile%20views&color=a1adb5&style=flat" alt="syedowaisalishah" /> </p>
 
