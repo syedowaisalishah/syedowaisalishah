@@ -195,9 +195,10 @@ graph LR
 
 | Category | Proficiency | Technologies |
 |----------|-------------|--------------|
-| **AI/ML Development** | ⭐⭐⭐⭐⭐ | Python, LLMs, OpenAI, LangChain, Prompt Engineering, LoraAi |
 | **Backend Engineering** | ⭐⭐⭐⭐⭐ | NestJS, TypeScript, Node.js, Express, Django, FastAPI, RestAPIs |
-| **Hardware & Systems** | ⭐⭐⭐⭐ | SystemVerilog, Chisel, RISC-V, Vivado, FPGA Acceleration |
+| **AI/ML Development** | ⭐⭐⭐⭐ | Python, LLMs, OpenAI, LangChain, Prompt Engineering, LoraAi |
+| **Frontend Engineering** | ⭐⭐⭐ | React, JavaScript, TypeScript, Tailwind, HTML5, CSS3 |
+| **Hardware & Systems** | ⭐⭐ | SystemVerilog, Chisel, RISC-V, Vivado, FPGA Acceleration |
 | **Languages** | ⭐⭐⭐⭐⭐ | Python, Ruby, Java, JavaScript, TypeScript, C#, C/C++, Bash |
 | **Databases** | ⭐⭐⭐⭐⭐ | PostgreSQL, MySQL, MongoDB, Redis, SQLite, NoSQL |
 | **Tools & DevOps** | ⭐⭐⭐⭐ | Docker, Git, CI/CD, Devcontainers, Linux, Rake |
