@@ -18,78 +18,72 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** specializing in **AI-powered applications** and **scalable backend systems**. With 1-2 years of hands-on experience, I build intelligent solutions that solve real-world problems—from conversational AI to financial SaaS platforms.
+I'm a **Software Engineer** specializing in **AI-powered applications** and **scalable backend systems**. With 1-2 years of hands-on experience, I build intelligent solutions that solve real-world problems from conversational AI to financial SaaS platforms.
 
 ```yaml
 Core Expertise:
-  - 🤖 AI/ML Engineering: LLMs, chatbots, AI workflows, Dialogflow
-  - ⚙️ Backend Development: Scalable APIs, system architecture, database design
-  - 🚀 SaaS Products: Finance systems, automation platforms, intelligent tools
-  - 🔐 Secure Systems: End-to-end encryption, secure chat applications
-  - 🎯 Unique Edge: Hardware-software optimization background
+  - 🤖 AI/ML Engineering: LLMs, Voice Agent API (VAPI), AI Automation, LangChain
+  - ⚙️ Backend Development: NestJS, TypeScript, Scalable REST APIs, RBAC
+  - 🚀 SaaS & CRM: Multi-tenant systems, automated billing (Stripe), CRM workflows
+  - 🔐 Secure Systems: Post-quantum encryption (Kyber), FPGA acceleration
+  - 🎯 Unique Edge: Bridging RISC-V hardware design with high-level software
 ```
 
 ### 🎯 What I Build
 
 **🤖 AI-Powered Applications**
-- **AI Receptionist** - Intelligent virtual assistant for automated customer interactions
-- **AI Chatbots** - Conversational interfaces using Dialogflow and custom LLM integrations
-- **AI Workflows** - Automated intelligent business process automation
-- **AI Landscape Solutions** - Computer vision and spatial intelligence applications
+- **Voice Agent API** - Real-time voice bot data ingestion (VAPI) & automated lead management
+- **AI CRM Workflows** - Intelligent CRM automation reducing manual reconciliation by ~40%
+- **conversion-to-TLV** - AI-assisted code translation for hardware description languages
+- **AI Receptionist** - Virtual assistant for automated customer interaction and lead capture
 
 **💼 SaaS & Enterprise Systems**
-- **Finance Management System** - Full-stack SaaS platform for financial operations
-- **Flight Vault** - Aviation data management and analytics platform
-- **Enigma Chat** - Secure, end-to-end encrypted communication platform
-- **Backend APIs** - RESTful services powering production applications
+- **CRM & Backend APIs** - Scalable RESTful services and RBAC for multi-tenant applications
+- **Finance Management Platform** - Full-stack SaaS for transaction management and reporting
+- **Enigma Chat** - Post-quantum encrypted platform with FPGA-accelerated cryptography
+- **Flight Vault** - Aviation data analytics and tracking platform
 
 **🔧 Intelligent Infrastructure**
-- **MAGMA-SI** - AI acceleration through optimized matrix operations (software layer for hardware)
-- **Hardware-Aware Optimization** - Leveraging low-level knowledge for high-performance software
+- **RISC-V Developer Tooling** - Optimized infrastructure and dev-environments (LFX Mentorship)
+- **MAGMA-SI** - Optimized matrix operations for AI/ML hardware acceleration
+- **Hardware-Aware Software** - Bridging software architecture with low-level hardware constraints
 
 ---
 
-## 🛠️ Tech Stack
-
-### AI & Machine Learning
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-005571?style=for-the-badge)
+![Chisel](https://img.shields.io/badge/Chisel-333333?style=for-the-badge)
 
-### Backend Development
+### Backend & AI
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Frontend & Full Stack
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & Platforms
+### Tools & Engineering
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Devcontainers](https://img.shields.io/badge/Devcontainers-24292e?style=for-the-badge&logo=visualstudiocode)
+![Vivado](https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge)
 
 ---
 
@@ -114,68 +108,35 @@ Core Expertise:
 
 ### 🤖 **AI & Automation**
 
-#### AI Receptionist System
-*Intelligent virtual assistant for automated customer service*
-- **Tech:** Python, Dialogflow, FastAPI, WebSocket
-- **Features:** Natural language processing, context-aware responses, multi-channel support
-- **Impact:** Reduced response time by 80%, handled 1000+ conversations daily
-- **Status:** Production deployment, serving real customers
+#### Voice Agent API (EhsaanTech)
+*Scalable backend for real-time AI voice agents*
+- **Tech:** NestJS, TypeScript, VAPI, MySQL, Git
+- **Features:** Integrated VAPI webhooks, real-time call data ingestion, SQL schema optimization
+- **Impact:** Handles 1k+ webhook events daily across 5+ client accounts with high observability
+- [View Project →](https://github.com/syedowaisalishah/qaulai)
 
-#### AI Workflow Automation
-*End-to-end intelligent business process automation*
-- **Tech:** Python, LangChain, OpenAI API, Celery
-- **Features:** Document processing, data extraction, automated decision-making
-- **Impact:** Automated 15+ manual workflows, saving 20 hours/week
-- **Unique:** Hardware-aware optimization for 3x faster processing
-
-#### Dialogflow AI Chatbot
-*Enterprise-grade conversational AI platform*
-- **Tech:** Dialogflow, Node.js, Firebase, React
-- **Features:** Multi-intent handling, context management, analytics dashboard
-- **Impact:** 95% user satisfaction rate, 70% query resolution without human intervention
-
----
-
-### 💼 **SaaS & Enterprise Systems**
-
-#### Finance Management SaaS
-*Full-stack financial operations platform*
-- **Tech:** React, Node.js, PostgreSQL, Stripe API
-- **Features:** Transaction management, reporting, role-based access, audit logs
-- **Scale:** Handling 10,000+ transactions/month
-- **Security:** PCI-DSS compliant, encrypted data at rest and in transit
-
-#### Flight Vault
-*Aviation data management and analytics platform*
-- **Tech:** Django, React, PostgreSQL, Redis
-- **Features:** Real-time data sync, analytics dashboard, flight tracking
-- **Integration:** Multiple aviation data APIs, automated scheduling
-
-#### Enigma Chat
-*Secure, end-to-end encrypted communication platform*
-- **Tech:** WebRTC, Node.js, Socket.io, React
-- **Features:** E2E encryption, ephemeral messages, secure file sharing
-- **Innovation:** Hardware-accelerated crypto operations for better performance
-- **Security:** Zero-knowledge architecture, perfect forward secrecy
-
----
-
-### 🔧 **Technical Innovation**
-
-#### MAGMA-SI (Software Perspective)
-*AI acceleration through optimized matrix operations*
-- **Role:** Software layer and API design for hardware acceleration
-- **Tech:** Python bindings, C++ extensions, CUDA integration
-- **Impact:** 10x speedup for ML inference workloads
-- **Unique:** Bridging software and hardware for optimal AI performance
-- [View Project →](https://github.com/merledu/magma-si)
-
-#### LLM Code Optimization
-*AI-assisted code conversion and optimization*
-- **Tech:** Python, OpenAI API, AST manipulation
-- **Features:** Automated code refactoring, performance optimization
-- **Use Case:** Converting legacy codebases to modern patterns
+#### conversion-to-TLV (RedwoodEDA)
+*AI-assisted hardware translation and automation workflows*
+- **Tech:** Python, LLMs, Yosys, Git, Shell
+- **Features:** Automated Verilog-to-TL-Verilog conversion, LLM-assisted hardware translation
+- **Impact:** Reduced manual debugging effort by ~70% across multiple hardware conversion workflows
 - [View Project →](https://github.com/stevehoover/conversion-to-TLV)
+
+---
+
+### 🔧 **Technical Innovation & Security**
+
+#### Enigma Chat (Final Year Project)
+*Post-quantum encrypted real-time communication platform*
+- **Tech:** Python, JavaScript, SystemVerilog, FPGA, WebRTC
+- **Features:** Kyber-based encryption, FPGA-accelerated cryptographic handshakes
+- **Impact:** 60% reduction in handshake latency compared to software-only implementation
+- [View Project →](https://github.com/syedowaisalishah/EnigmaChat)
+
+---
+### 📚 **Other Projects**
+**SaaS & Backend:** Finance Management SaaS, CallCenterAI, FamigliaDoro App.  
+**Hardware & AI:** NucleusRV, Football Analysis, ChipSimX, DRBG, Bitcoin Protocol Experiments.
 
 ---
 
@@ -190,25 +151,19 @@ Most software engineers don't understand low-level optimization. Most hardware e
 ✅ **AI Acceleration** - Knowing when and how to optimize for hardware  
 ✅ **Production-Ready Code** - Not just prototypes, but scalable, maintainable systems  
 
-**Example:** My AI chatbot runs 3x faster than competitors because I optimize memory access patterns and use hardware-aware batching—knowledge from my hardware background applied to software.
+**Example:** My Enigma Chat platform achieved a **60% reduction in cryptographic latency** by offloading Kyber encryption to a custom FPGA accelerator applying low-level hardware knowledge to solve high-level software bottlenecks.
 
 ---
 
-## 📈 Experience Highlights
+## 🚀 Professional Impact & Key Achievements
 
-### Software Engineer | AI/ML Projects (1-2 Years)
-**Key Achievements:**
-- 🚀 Deployed 5+ AI-powered applications to production
-- 💼 Built SaaS platforms serving 1,000+ active users
-- 🤖 Reduced operational costs by 60% through intelligent automation
-- 🔐 Architected secure systems handling sensitive financial data
-- ⚡ Optimized backend APIs achieving <100ms response times
-
-**Technical Growth:**
-- From building simple scripts → Production-grade distributed systems
-- From basic ML models → Custom LLM integrations and fine-tuning
-- From monolithic apps → Microservices architecture
-- From SQL basics → Complex database optimization and caching strategies
+- **Scalable Backend Systems**: Architected 15+ REST APIs using NestJS and TypeScript for multi-tenant SaaS platforms.
+- **AI & CRM Automation**: Engineered intelligent lead management and CRM workflows, reducing manual reconciliation by **40%**.
+- **Financial Engineering**: Developed end-to-end billing systems (Stripe) and automated ledger flows for financial SaaS applications.
+- **Secure Communication**: Implemented post-quantum encryption (Kyber) and FPGA-accelerated handshakes for secure real-time chat.
+- **Infrastructure & Tooling**: Optimized RISC-V infrastructure and developed AST-based CLI tools during **LFX Mentorship**.
+- **Voice AI Solutions**: Integrated VAPI and automated webhooks for real-time AI receptionists and voice agents.
+- **Core Engineering**: Accelerated matrix computations by **25%** through hardware/software co-design and optimization.
 
 ---
 
@@ -229,11 +184,10 @@ graph LR
 ```
 
 **Active Learning:**
-- 🔹 Advanced LLM engineering (RAG, fine-tuning, prompt optimization)
+- 🔹 Advanced AI agent frameworks (LangGraph, AutoGPT)
 - 🔹 Kubernetes & cloud-native architectures
-- 🔹 Real-time systems and WebSocket optimization
-- 🔹 AI agent frameworks (AutoGPT, LangGraph)
-- 🔹 System design for high-traffic applications
+- 🔹 Real-time system optimization & WebSockets
+- 🔹 Large-scale distributed system design
 
 ---
 
@@ -241,45 +195,29 @@ graph LR
 
 | Category | Proficiency | Technologies |
 |----------|-------------|--------------|
-| **AI/ML Development** | ⭐⭐⭐⭐⭐ | Python, TensorFlow, PyTorch, LangChain, OpenAI |
-| **Backend Engineering** | ⭐⭐⭐⭐⭐ | Node.js, NestJS, Django, FastAPI, Express, PostgreSQL |
-| **Frontend Development** | ⭐⭐⭐⭐ | React, JavaScript, TypeScript, Next.js |
-| **Cloud & DevOps** | ⭐⭐⭐⭐ | AWS, Docker, GitHub Actions, CI/CD |
-| **System Design** | ⭐⭐⭐⭐ | Microservices, APIs, Database Architecture |
-| **Security** | ⭐⭐⭐⭐ | Encryption, Authentication, Secure Architecture |
+| **AI/ML Development** | ⭐⭐⭐⭐⭐ | Python, LLMs, OpenAI, LangChain, Prompt Engineering, LoraAi |
+| **Backend Engineering** | ⭐⭐⭐⭐⭐ | NestJS, TypeScript, Node.js, Express, Django, FastAPI, RestAPIs |
+| **Hardware & Systems** | ⭐⭐⭐⭐ | SystemVerilog, Chisel, RISC-V, Vivado, FPGA Acceleration |
+| **Languages** | ⭐⭐⭐⭐⭐ | Python, Ruby, Java, JavaScript, TypeScript, C#, C/C++, Bash |
+| **Databases** | ⭐⭐⭐⭐⭐ | PostgreSQL, MySQL, MongoDB, Redis, SQLite, NoSQL |
+| **Tools & DevOps** | ⭐⭐⭐⭐ | Docker, Git, CI/CD, Devcontainers, Linux, Rake |
 
 ---
 
-## 💼 Open to Opportunities
+## 🚀 Let's Build the Future Together
 
-I'm actively seeking:
-- 🤖 **AI Engineer** roles building production ML systems
-- ⚙️ **Backend Engineer** positions in high-growth startups
-- 🚀 **Full-Stack Developer** roles with AI/ML focus
-- 💡 **Founding Engineer** opportunities in AI-first companies
-- 📚 **Technical Consulting** for AI integration and system architecture
+I am actively seeking **AI Engineer**, **Backend Engineer**, or **Full-Stack** roles where I can leverage my unique hardware-software background to build production-grade intelligent systems.
 
-**What I bring:**
-- Battle-tested production experience (1-2 years shipping real products)
-- Unique hardware + software optimization perspective
-- End-to-end ownership: from ideation to deployment to scaling
-- Proven track record of reducing costs and improving performance
+**What I Bring to Your Team:**
+- ✅ **Production Experience** - 1-2 years shipping real-world AI & SaaS products.
+- ✅ **Performance Optimization** - Solving high-level bottlenecks with low-level insights.
+- ✅ **Full Ownership** - From system architecture to deployment and scaling.
+- ✅ **Product Mindset** - Solving business problems, not just writing code.
 
----
-
-## 🌟 Why Work With Me?
-
-**🎯 Product-Minded Engineer**
-I don't just write code—I solve business problems. Every technical decision is evaluated against user impact and business goals.
-
-**⚡ Performance Obsessed**
-My hardware background means I instinctively optimize. Your AI models will run faster, your APIs will respond quicker, your costs will be lower.
-
-**🔧 Full Ownership**
-From database schema to frontend UX to deployment pipelines—I can handle the complete stack. No silos, no handoffs.
-
-**🚀 Fast Learner**
-Went from hardware design to shipping production AI systems in <2 years. Give me a new technology, and I'll master it.
+**What I'm Seeking:**
+- 🤖 Roles building production ML systems and AI agents.
+- ⚙️ Backend positions in high-growth, scalability-focused startups.
+- 💡 Opportunities to bridge the gap between AI and core software infrastructure.
 
 ---
 
