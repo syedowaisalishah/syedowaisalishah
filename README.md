@@ -6,10 +6,6 @@
 
 *Transforming complex problems into intelligent, scalable solutions through AI & modern software engineering*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedowaisalishah/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishahowais@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedowaisalishah)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=syedowaisalishah&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
@@ -88,20 +84,6 @@ graph LR
 - 🔹 Kubernetes & cloud-native architectures
 - 🔹 Real-time system optimization & WebSockets
 - 🔹 Large-scale distributed system design
-
----
-
-## 🏆 Technical Skills Matrix
-
-| Category | Proficiency | Technologies |
-|----------|-------------|--------------|
-| **Backend Engineering** | ⭐⭐⭐⭐⭐ | NestJS, TypeScript, Node.js, Express, Django, FastAPI, RestAPIs |
-| **AI/ML Development** | ⭐⭐⭐⭐ | Python, LLMs, OpenAI, LangChain, Prompt Engineering, LoraAi |
-| **Frontend Engineering** | ⭐⭐⭐ | React, JavaScript, TypeScript, Tailwind, HTML5, CSS3 |
-| **Hardware & Systems** | ⭐⭐ | SystemVerilog, Chisel, RISC-V, Vivado, FPGA Acceleration |
-| **Languages** | ⭐⭐⭐⭐⭐ | Python, Ruby, Java, JavaScript, TypeScript, C#, C/C++, Bash |
-| **Databases** | ⭐⭐⭐⭐⭐ | PostgreSQL, MySQL, MongoDB, Redis, SQLite, NoSQL |
-| **Tools & DevOps** | ⭐⭐⭐⭐ | Docker, Git, CI/CD, Devcontainers, Linux, Rake |
 
 ---
 
