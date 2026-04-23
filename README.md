@@ -62,6 +62,7 @@ Core Expertise:
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -241,7 +242,7 @@ graph LR
 | Category | Proficiency | Technologies |
 |----------|-------------|--------------|
 | **AI/ML Development** | ⭐⭐⭐⭐⭐ | Python, TensorFlow, PyTorch, LangChain, OpenAI |
-| **Backend Engineering** | ⭐⭐⭐⭐⭐ | Node.js, Django, FastAPI, Express, PostgreSQL |
+| **Backend Engineering** | ⭐⭐⭐⭐⭐ | Node.js, NestJS, Django, FastAPI, Express, PostgreSQL |
 | **Frontend Development** | ⭐⭐⭐⭐ | React, JavaScript, TypeScript, Next.js |
 | **Cloud & DevOps** | ⭐⭐⭐⭐ | AWS, Docker, GitHub Actions, CI/CD |
 | **System Design** | ⭐⭐⭐⭐ | Microservices, APIs, Database Architecture |
