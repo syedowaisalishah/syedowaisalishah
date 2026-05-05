@@ -1,3 +1,49 @@
+const https = require('https');
+
+https.get('https://coderbyte.com/api/challenges/json/json-cleaning', (resp) => {
+  let data = '';
+
+  resp.on('data', (chunk) => {
+    data += chunk;
+  });
+
+  resp.on('end', () => {
+    const json = JSON.parse(data);
+    let items_removed = 0;
+
+    const badValues = ['N/A', '-', ''];
+
+    function clean(obj) {
+      if (Array.isArray(obj)) {
+        return obj.filter(item => {
+          if (badValues.includes(item)) {
+            items_removed++;
+            return false;
+          }
+          return true;
+        }).map(item => clean(item));
+      } else if (typeof obj === 'object' && obj !== null) {
+        const result = {};
+        for (const key in obj) {
+          const val = obj[key];
+          if (badValues.includes(val)) {
+            items_removed++;
+          } else {
+            result[key] = clean(val);
+          }
+        }
+        return result;
+      }
+      return obj;
+    }
+
+    const cleaned = clean(json);
+    cleaned['items_removed'] = items_removed;
+    console.log(JSON.stringify(cleaned));
+  });
+});
+
+
 <div align="center">
 
 # 🤖 Syed Owais Ali Shah
